@@ -824,7 +824,7 @@
                 "content": [{
                     "name": "简介",
                     "value": "introduction",
-                    "href": "https://github.com/virzs/Search",
+                    "href": "https://github.com/YuelinWang/nav_page",
                     "color": "#0078D4",
                     "icon": "fa fa-pencil-square-o",
                     "show": true,
@@ -832,11 +832,11 @@
                 }, {
                     "name": "作者",
                     "value": "author",
-                    "href": "https://github.com/virzs",
+                    "href": "https://github.com/YuelinWang",
                     "color": "#D0104C",
                     "icon": "fa fa-user-o",
                     "show": true,
-                    "content": "Vir"
+                    "content": "YuelinWang"
                 }, {
                     "name": "联系方式",
                     "value": "contact",
@@ -955,7 +955,7 @@
         }]
     },
     "copyright": {
-        "href": "https://www.wangyuelin.xyz",
+        "href": "http://www.wangyuelin.xyz",
         "show": true,
         "content": "©#before#-#after# by #author#. All rights reserved."
     }
